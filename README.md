@@ -4,7 +4,7 @@
 
 ---
 
-### 🚀 About Me  
+### 🙋‍♀️ About Me  
 I love creating impactful solutions that make life easier and enjoy learning how things work behind the scenes.  
 Currently focusing on mastering the **MERN stack** and building real-world projects. 
 
