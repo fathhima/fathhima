@@ -1,5 +1,3 @@
-# 👋 Hi there, I'm Fathima Sadakkathullah  
-
 ### 💻 Full Stack Web Developer  
 
 📍 Kerala, India  
@@ -7,8 +5,8 @@
 ---
 
 ### 🚀 About Me  
-I’m a passionate developer who loves creating impactful solutions that make life easier and enjoys learning how things work behind the scenes.  
-Currently focusing on mastering the **MERN stack**, building real-world projects, and sharpening my **problem-solving and DSA** skills.  
+I love creating impactful solutions that make life easier and enjoy learning how things work behind the scenes.  
+Currently focusing on mastering the **MERN stack** and building real-world projects. 
 
 💡 *Fueled by curiosity, not coffee.*  
 
@@ -22,7 +20,7 @@ Currently focusing on mastering the **MERN stack**, building real-world projects
 ---
 
 ### 🎓 Education  
-**MCA Postgraduate** — Indira Gandhi National Open University (IGNOU)  
+**MCA** — Indira Gandhi National Open University (IGNOU)  
 
 ---
 
@@ -31,5 +29,3 @@ Currently focusing on mastering the **MERN stack**, building real-world projects
 - 📧 **fathimasadakkathullah@gmail.com**  
 
 ---
-
-⭐ *“Code. Learn. Evolve.”*
