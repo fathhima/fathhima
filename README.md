@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hi there, I'm Fathima Sadakkathullah  
 
-<!--
-**fathhima/fathhima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Full Stack Web Developer  
 
-Here are some ideas to get you started:
+📍 Kerala, India  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 About Me  
+I’m a passionate developer who loves creating impactful solutions that make life easier and enjoys learning how things work behind the scenes.  
+Currently focusing on mastering the **MERN stack**, building real-world projects, and sharpening my **problem-solving and DSA** skills.  
+
+💡 *Fueled by curiosity, not coffee.*  
+
+---
+
+### 🛠️ Tech Stack  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=javascript,react,nodejs,express,mongodb" />
+</p>
+
+---
+
+### 🎓 Education  
+**MCA Postgraduate** — Indira Gandhi National Open University (IGNOU)  
+
+---
+
+### 📫 Connect with Me  
+- 💼 [LinkedIn](https://www.linkedin.com/in/fathima-sadakkathullah/)  
+- 📧 **fathimasadakkathullah@gmail.com**  
+
+---
+
+⭐ *“Code. Learn. Evolve.”*
