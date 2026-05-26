@@ -31,9 +31,19 @@ I enjoy building solutions that make life easier and love exploring how things w
 
 ###  Featured Projects
 
-* **Kala:** A full-stack creative skill marketplace built with React, NestJS, Prisma, and PostgreSQL.
-* **NextStep:** A logic-driven job application tracker designed to solve the "follow-up gap" for job seekers.
+ **Kala:** A full-stack creative skill marketplace built with React, NestJS, Prisma, and PostgreSQL.
+
+-  [Repository](https://github.com/fathhima/kala)
+  
+ **NextStep:** A logic-driven job application tracker designed to solve the "follow-up gap" for job seekers.
+
+-  [Repository](https://github.com/fathhima/nextStep)
+-  [Live Demo](https://next-step-bice.vercel.app)
+  
 * **FemmeVogue:** An e-commerce fashion platform focused on seamless online shopping experiences.
+
+-  [Repository](https://github.com/fathhima/FemmeVogue)
+-  [Live Demo](https://femmevogue.onrender.com)
 
 ---
 
