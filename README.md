@@ -3,7 +3,7 @@
 <h3 align="center">Full Stack Web Developer</h3>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213760705-0d5bf320-4f43-4352-b74b-0889ae726bf7.gif" width="500" height="300">
+  <img src="https://user-images.githubusercontent.com/74038190/213760705-0d5bf320-4f43-4352-b74b-0889ae726bf7.gif" width="500" height="250">
 </p>
 
 <p align="center">
@@ -35,15 +35,15 @@ I enjoy building solutions that make life easier and love exploring how things w
 
 -  [Repository](https://github.com/fathhima/kala)
   
+ **FemmeVogue:** An e-commerce fashion platform focused on seamless online shopping experiences.
+
+-  [Repository](https://github.com/fathhima/FemmeVogue)
+-  [Live Demo](https://femmevogue.onrender.com)
+
  **NextStep:** A logic-driven job application tracker designed to solve the "follow-up gap" for job seekers.
 
 -  [Repository](https://github.com/fathhima/nextStep)
 -  [Live Demo](https://next-step-bice.vercel.app)
-  
-* **FemmeVogue:** An e-commerce fashion platform focused on seamless online shopping experiences.
-
--  [Repository](https://github.com/fathhima/FemmeVogue)
--  [Live Demo](https://femmevogue.onrender.com)
 
 ---
 
